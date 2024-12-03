@@ -3,7 +3,7 @@ layout: home
 title: "Welcome to My Website"
 ---
 
-![]("/assets/images/image-4629.jpg")
+![]("/assets/images/IMG_4629.jpg")
 
 Hello! I am Hastin Kapoor, a graduate research assistant in computer architecture. This website is a place where I share my research, publications, projects, and updates. Please explore the sections below to learn more about my work.
 
