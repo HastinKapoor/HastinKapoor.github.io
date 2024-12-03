@@ -1,9 +1,9 @@
 ---
 layout: home
-title: "Welcome to My Research Website"
+title: "Welcome to My Website"
 ---
 
-# Welcome to My Website!
+![]({{ "/assets/images/image-4629.jpg" | relative_url }})
 
 Hello! I am Hastin Kapoor, a graduate research assistant in computer architecture. This website is a place where I share my research, publications, projects, and updates. Please explore the sections below to learn more about my work.
 
@@ -17,4 +17,3 @@ Feel free to reach out to me via email at [u1528432@utah.edu].
 
 ---
 
-Thank you for visiting my site! I look forward to connecting with other researchers and collaborating on future projects.
