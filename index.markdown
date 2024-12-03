@@ -10,7 +10,7 @@ body {
     margin: 0;
     background-color: #f4f4f4;
     font-family: Helvetica, Arial, sans-serif;
-    text-align: center; /* Center align all content */
+    text-align: left;
 }
 </style>
 </head>
