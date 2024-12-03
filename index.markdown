@@ -20,10 +20,8 @@ body {
     <img src="/assets/images/IMG_4629.jpg" alt="Profile Picture" style="width: 150px; height: auto;">
 </div>
 
-Hi! I'm Hastin Kapoor, a graduate research assistant for the [Utah Arch Research Group](https://arch.cs.utah.edu) at the University of Utah. I specialize in compound memory models and cache coherence.
+Hi! I'm Hastin Kapoor, a graduate research assistant for the [Utah Arch Research Group](https://arch.cs.utah.edu) at the University of Utah. I specialize in compound memory models and cache coherence. <br>
 
-Feel free to explore my portfolio, check out some of my recent work, or message me at u1528432@utah.edu.
+Feel free to explore my portfolio, check out some of my recent work, or message me at u1528432@utah.edu. <br>
 </body>
-
----
 
