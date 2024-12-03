@@ -19,7 +19,7 @@ body {
     <div class="container">
         <!-- Profile Image -->
         <div class="circular-image">
-            <img src="/assets/IMG_4629.jpg" alt="Profile Image">
+            <img src="/assets/images/IMG_4629.jpg" alt="Profile Image">
         </div>
     </div>
 </body>
