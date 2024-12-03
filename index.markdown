@@ -1,19 +1,28 @@
 ---
 layout: home
-title: "Welcome to My Website"
+title: "Hastin Kapoor"
 ---
 
-![]("/assets/images/IMG_4629.jpg")
+<html>
+<head>
+<style>
+body {
+    margin: 0;
+    background-color: #f4f4f4;
+    font-family: Helvetica, Arial, sans-serif;
+    text-align: center; /* Center align all content */
+}
+</style>
+</head>
 
-Hello! I am Hastin Kapoor, a graduate research assistant in computer architecture. This website is a place where I share my research, publications, projects, and updates. Please explore the sections below to learn more about my work.
-
-## About Me
-
-I am currently a graduate research assistant for the Utah Arch Research Group at the University of Utah. My research focuses on compound memory models and cache coherence.
-
-## Contact
-
-Feel free to reach out to me via email at [u1528432@utah.edu].
+<body>
+    <div class="container">
+        <!-- Profile Image -->
+        <div class="circular-image">
+            <img src="/assets/photo.jpg" alt="Profile Image">
+        </div>
+    </div>
+</body>
 
 ---
 
