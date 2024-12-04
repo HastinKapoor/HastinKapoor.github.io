@@ -5,7 +5,7 @@ title: About
 permalink: /about/
 ---
 
-Hi! I'm Hastin Kapoor, a first year PhD student at the University of Utah, working under Vijay Nagarajan. <br>
+Hi! I'm Hastin Kapoor, a first year PhD student at the University of Utah working under Vijay Nagarajan. <br>
 
 I specialize in compound memory models and cache coherence. <br>
 
